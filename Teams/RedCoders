@@ -1,0 +1,18 @@
+{
+  "teamName": "RedCoders",
+  "members": [
+    {
+      "name": "Kareem Abdel Hadi",
+      "twitter": "@kaka3004",
+      "koding": "kaka3004",
+      "location": "Cairo, EG"
+    },
+    {
+      "name": "Omar Monib",
+      "twitter": "@omarmonib",
+      "koding": "omar.monib.03@gmail.com",
+      "location": "Cairo, EG",
+      "lead": true
+    }
+  ]
+}
